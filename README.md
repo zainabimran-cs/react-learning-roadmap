@@ -34,7 +34,7 @@ Users can open topics, view explanations and working examples, mark topics as co
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/zainabimran-cs/react-learning-roadmap.git
 ```
 
 ### 2. Open the Project Folder
